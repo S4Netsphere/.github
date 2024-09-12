@@ -1,87 +1,103 @@
-# Netsphere Team HAVE FUN RETRO
 
-**Welcome to the [Netsphere] GitHub Organization!**  
-We build and maintain [mention what your organization does, e.g., open-source software, educational tools, etc.].
+<h1 align="center" style="font-weight: bold;">Netsphere</h1>
 
----
 
-## About Us
+<p align="center">Welcome to the [Netsphere] GitHub Organization!
 
-At [Organization Name], we are committed to:
 
-- **Vision**: [State your organization's long-term goals or mission.]
-- **Focus Areas**: [List main areas of development, such as AI, web development, game design, etc.]
-- **Collaboration**: We believe in the power of open-source, and we actively collaborate with contributors from all over the world.
 
----
+>We build and maintain multiple projects, like 
+open-source software, educational tools, etc.].
 
-## Projects
 
-Here are some of our notable projects:
 
-### [Project 1 Name]
-**Description**: [Short description of the project.]  
-**Repository**: [Link to repo]  
-**Tech Stack**: [List technologies]  
-**Status**: [Current development status, e.g., In development, Maintenance mode, etc.]
+|     +-> We make S4League, S4 again but in Netsphere!    +->|
 
-### [Project 2 Name]
-**Description**: [Short description of the project.]  
-**Repository**: [Link to repo]  
-**Tech Stack**: [List technologies]  
-**Status**: [Current development status.]
+</p>
 
-(Repeat for other projects.)
 
----
 
-## Contributing
+<h2 id="technologies">💻 Technologies</h2>
 
-We welcome contributions from the community! To contribute:
+list of all technologies we use
+- C#
+- C++
+- PHP
+- Batch
+- JavaScript
 
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature`.
-3. Commit your changes: `git commit -m 'Add new feature'`.
-4. Push to your branch: `git push origin feature/your-feature`.
-5. Submit a pull request.
+<h2 id="started">🚀 Getting started</h2>
 
-For detailed guidelines, please see our [CONTRIBUTING.md](link-to-contributing.md).
+Everyone of the team takes one or multiple roles like 
+ - webdev
+- designer
+- Server Developer
+- Developer
 
----
+<h2 id="colab">🤝 Collaborators</h2>
 
-## Getting Started
+<p>Special thank you for all people that contributed for this project.</p>
+<table>
+<tr>
 
-To get started with any of our projects:
+<td align="center">
+<a href="https://github.com/razvanbackpack">
+<img src="https://avatars.githubusercontent.com/u/21162617?v=4" width="100px;" alt="razvanbackpack Profile Picture"/><br>
+<sub>
+<b>razvanbackpack</b>
+</sub>
+</a>
+</td>
 
-1. Clone the repository: `git clone https://github.com/organization/repo.git`
-2. Install dependencies: `[Insert command]`
-3. Follow the setup guide in the project's README for more details.
+<td align="center">
+<a href="https://github.com/Atticax">
+<img src="https://avatars.githubusercontent.com/u/44445929?v=4" width="100px;" alt="Atticax Profile Picture"/><br>
+<sub>
+<b>Atticax</b>
+</sub>
+</a>
+</td>
 
----
+<td align="center">
+<a href="https://github.com/ZenBaka">
+<img src="https://avatars.githubusercontent.com/u/85319327?v=4" width="100px;" alt="ZenBaka Profile Picture"/><br>
+<sub>
+<b>ZenBaka</b>
+</sub>
+</a>
+</td>
 
-## Code of Conduct
+<td align="center">
+<a href="https://github.com/TuringProblem">
+<img src="https://avatars.githubusercontent.com/u/122590935?v=4" width="100px;" alt="TuringProblem Profile Picture"/><br>
+<sub>
+<b>TuringProblem</b>
+</sub>
+</a>
+</td>
 
-We expect all contributors to adhere to our [Code of Conduct](link-to-code-of-conduct.md). Please respect fellow community members and help us maintain a positive environment.
+<td align="center">
+<a href="https://github.com/retro5475">
+<img src="https://avatars.githubusercontent.com/u/149542610?v=4" width="100px;" alt="retro5475 Profile Picture"/><br>
+<sub>
+<b>retro5475</b>
+</sub>
+</a>
+</td>
 
----
+</tr>
+</table>
 
-## Support & Contact
+<h2 id="contribute">📫 Contribute</h2>
 
-If you have any questions or need support, feel free to:
+Here you can contribute to our projects. 
+If you want to change something feel free to open an pull request
 
-- Open an issue on the repository.
-- Reach out to us via [contact email].
-- Join our [Discord server](link-to-discord) for community discussions.
 
----
+-- Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
-## License
+<h3>Documentations that might help</h3>
 
-All our projects are open-source and available under the [LICENSE NAME] license. See the [LICENSE](link-to-license) file for more details.
+[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
----
-
-## Acknowledgments
-
-- Thanks to all the contributors and supporters who help make these projects possible!
-- Special mention to [mention any collaborators or sponsors].
+[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
