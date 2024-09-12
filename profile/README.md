@@ -29,10 +29,11 @@ list of all technologies we use
 <h2 id="started">🚀 Getting started</h2>
 
 Everyone of the team takes one or multiple roles like 
- - webdev
-- designer
-- Server Developer
+- Webdev
+- Designer
+- Reverse Engineering
 - Developer
+- Moderation & Outside Collaborator´s
 
 <h2 id="colab">🤝 Collaborators</h2>
 
@@ -90,11 +91,8 @@ Everyone of the team takes one or multiple roles like
 
 <h2 id="contribute">📫 Contribute</h2>
 
-Here you can contribute to our projects. 
-If you want to change something feel free to open an pull request
+Request access for contributing or hosting.
 
-
--- Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
 <h3>Documentations that might help</h3>
 
