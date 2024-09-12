@@ -6,9 +6,6 @@
 
 
 
->We build and maintain multiple projects, like 
-open-source software, educational tools, etc.].
-
 
 
 |     +-> We make S4League, S4 again but in Netsphere!    +->|
