@@ -85,7 +85,7 @@ Everyone of the team takes one or multiple roles like
 
 <td align="center">
 <a href="">
-<img src="https://cdn.discordapp.com/avatars/973313092412932127/33126e47a3459d1eb7d48990f80ef040?size=1024"/><br>
+<img src="https://cdn.discordapp.com/avatars/973313092412932127/33126e47a3459d1eb7d48990f80ef040?"/><br>
 <sub>
 <b>Gaia</b>
 </sub>
