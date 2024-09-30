@@ -96,7 +96,7 @@ Spelcial thanks to
 
 <td align="center">
 <a href="">
-<img src="https://avatars.githubusercontent.com/u/22017945?v=4"/><br>
+<img src="https://avatars.githubusercontent.com/u/22017945?s=64&v=4"/><br>
 <sub>
 <b>Kethen</b>
 </sub>
@@ -105,7 +105,7 @@ Spelcial thanks to
 
 <td align="center">
 <a href="">
-<img src="https://avatars.githubusercontent.com/u/106709979?v=4"/><br>
+<img src="https://avatars.githubusercontent.com/u/106709979?s=64&v=4"/><br>
 <sub>
 <b>Aeven-Dev</b>
 </sub>
