@@ -92,6 +92,26 @@ Everyone of the team takes one or multiple roles like
 </a>
 </td>
 
+Spelcial thanks to 
+
+<td align="center">
+<a href="">
+<img src="https://avatars.githubusercontent.com/u/22017945?v=4"/><br>
+<sub>
+<b>Kethen</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="">
+<img src="https://avatars.githubusercontent.com/u/106709979?v=4"/><br>
+<sub>
+<b>Aeven-Dev</b>
+</sub>
+</a>
+</td>
+
 </tr>
 </table>
 
