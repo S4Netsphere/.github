@@ -92,8 +92,6 @@ Everyone of the team takes one or multiple roles like
 </a>
 </td>
 
-Spelcial thanks to 
-
 <td align="center">
 <a href="">
 <img src="https://avatars.githubusercontent.com/u/22017945?s=64&v=4"/><br>
