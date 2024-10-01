@@ -34,7 +34,7 @@ Everyone of the team takes one or multiple roles like
 
 <h2 id="colab">🤝 Collaborators</h2>
 
-<p>Special thank you for all people that contributed for this project.</p>
+<p>Special thank you for all people that contributed or helped in any way to this project.</p>
 <table>
 <tr>
 
